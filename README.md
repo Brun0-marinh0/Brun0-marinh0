@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img align="left" height="50rem" src="![image](https://user-images.githubusercontent.com/85966302/168380884-136ecb5a-4284-4ba8-8b2d-5661d9514923.png)"/>
 <!--
 **Brun0-marinh0/Brun0-marinh0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
