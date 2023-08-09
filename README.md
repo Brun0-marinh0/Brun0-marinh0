@@ -9,7 +9,7 @@
 
 - 🏪 minha loja de camisetas focadas em Devs [https://www.instagram.com/_dev_eyes/](https://www.instagram.com/_dev_eyes/)
 
-- 📫 How to reach me **bcaldasmarinhojklb@gmail.com**
+- 📫 E-mail **bcaldasmarinhojklb@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
