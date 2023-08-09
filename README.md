@@ -1,9 +1,9 @@
 <h1 align="center">Oi! 👋, Eu sou o Brun0-marinh0</h1>
 <h3 align="center">Sou Desenvolvedor Front-end e Web Desinger 🤠</h3>
+<br/><br/>
 <img align="right" height="350rem" 
      src="https://raw.githubusercontent.com/gist/Brun0-marinh0/bd80ac4b7e3b25fdc48d8cd7961563e6/raw/d005c00691bb890194bd413d95470877a1334a36/ilustation.svg"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brun0-marinh0&label=Profile%20views&color=0e75b6&style=flat" alt="brun0-marinh0" /> </p>
 
 - 👨‍💻 Portfólio [https://brun0-marinh0.github.io/myPortfolio/](https://brun0-marinh0.github.io/myPortfolio/)
 
