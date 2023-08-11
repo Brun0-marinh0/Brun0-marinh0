@@ -45,4 +45,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brun0-marinh0&show_icons=true&theme=transparent&locale=en&layout=compact" alt="brun0-marinh0" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brun0-marinh0&" alt="brun0-marinh0" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brun0-marinh0&theme=dark" alt="brun0-marinh0" /></p>
